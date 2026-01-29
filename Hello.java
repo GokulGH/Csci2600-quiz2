@@ -7,8 +7,12 @@ public class Hello {
         System.out.println("enter user name");
         String name=scan.nextLine();
         System.out.println("username is " + name);
+<<<<<<< HEAD
         int x = 5;
         int y = 6;
+=======
+        System.out.println("Change");
+>>>>>>> 1138a10cc07e92e9bc1359873d6284662a485105
 
     }
 }
